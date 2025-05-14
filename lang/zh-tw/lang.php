@@ -100,13 +100,13 @@ $lang['dash_newincoming'] = '熱門新增來源連結';
 $lang['dash_topsearch']   = '熱門搜尋詞組';
 
 // 圖表標籤
-$lang['graph_edits']       = '頁面編輯';
-$lang['graph_creates']     = '頁面創建';
-$lang['graph_deletions']   = '頁面刪除';
-$lang['graph_views']       = '頁面瀏覽';
-$lang['graph_sessions']    = '訪問';
-$lang['graph_visitors']    = '訪客';
-$lang['graph_page_count']  = '頁面數';
-$lang['graph_page_size']   = '頁面大小 (MB)';
-$lang['graph_media_count'] = '媒體項目數';
-$lang['graph_media_size']  = '媒體項目大小 (MB)';
+$lang['graph_edits']       = 'Page Edits';
+$lang['graph_creates']     = 'Page Creations';
+$lang['graph_deletions']   = 'Page Deletions';
+$lang['graph_views']       = 'Page Views';
+$lang['graph_sessions']    = 'Visits';
+$lang['graph_visitors']    = 'Visitors';
+$lang['graph_page_count']  = 'Pages';
+$lang['graph_page_size']   = 'Pagessize (MB)';
+$lang['graph_media_count'] = 'Media Items';
+$lang['graph_media_size']  = 'Media Item Size (MB)';
